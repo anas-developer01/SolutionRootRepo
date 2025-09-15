@@ -75,3 +75,18 @@ Notes
 •	Make sure a customer/lead exists before uploading images.
 •	The API enforces a strict 10-image limit per customer/lead.
 •	Images are stored as Base64 strings for simplicity and demo purposes.
+
+<img width="2505" height="477" alt="image" src="https://github.com/user-attachments/assets/706ef203-b4cc-488d-9572-bf7a86dc16ae" />
+
+<img width="2476" height="1177" alt="image" src="https://github.com/user-attachments/assets/7e071509-bef2-4ff2-9902-d90eac5ded0a" />
+
+<img width="2429" height="1278" alt="image" src="https://github.com/user-attachments/assets/6acab530-7084-4a7a-a2f4-3fc61d92a566" />
+
+<img width="2529" height="858" alt="image" src="https://github.com/user-attachments/assets/520203e6-1fb3-4d4f-b0d0-336825e20f41" />
+
+<img width="2428" height="1220" alt="image" src="https://github.com/user-attachments/assets/14b5399e-654f-4490-984c-bed3962f2902" />
+
+<img width="2504" height="1082" alt="image" src="https://github.com/user-attachments/assets/de644f73-8646-450a-ba31-635ca2519462" />
+
+
+
