@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web APIs\\solution-root\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2F5E98-03A2-4A47-AC7B-9A87421CDB51}|Api\\Api.csproj|d:\\web apis\\solution-root\\api\\controllers\\customerleadimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2F5E98-03A2-4A47-AC7B-9A87421CDB51}|Api\\Api.csproj|solutionrelative:api\\controllers\\customerleadimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22C488A-7C5F-42DE-8D4F-8C919633FD42}|Application\\Application.csproj|d:\\web apis\\solution-root\\application\\services\\customerleadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22C488A-7C5F-42DE-8D4F-8C919633FD42}|Application\\Application.csproj|solutionrelative:application\\services\\customerleadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22C488A-7C5F-42DE-8D4F-8C919633FD42}|Application\\Application.csproj|d:\\web apis\\solution-root\\application\\dtos\\uploadfilesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22C488A-7C5F-42DE-8D4F-8C919633FD42}|Application\\Application.csproj|solutionrelative:application\\dtos\\uploadfilesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22C488A-7C5F-42DE-8D4F-8C919633FD42}|Application\\Application.csproj|d:\\web apis\\solution-root\\application\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22C488A-7C5F-42DE-8D4F-8C919633FD42}|Application\\Application.csproj|solutionrelative:application\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2F5E98-03A2-4A47-AC7B-9A87421CDB51}|Api\\Api.csproj|d:\\web apis\\solution-root\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2F5E98-03A2-4A47-AC7B-9A87421CDB51}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2F5E98-03A2-4A47-AC7B-9A87421CDB51}|Api\\Api.csproj|d:\\web apis\\solution-root\\api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2F5E98-03A2-4A47-AC7B-9A87421CDB51}|Api\\Api.csproj|solutionrelative:api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Web APIs\\solution-root\\Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Web APIs\\solution-root\\Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:29:39.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web APIs\\solution-root\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\Web APIs\\solution-root\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:24:59.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerLeadImagesController.cs",
+              "DocumentMoniker": "D:\\Web APIs\\solution-root\\Api\\Controllers\\CustomerLeadImagesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CustomerLeadImagesController.cs",
+              "ToolTip": "D:\\Web APIs\\solution-root\\Api\\Controllers\\CustomerLeadImagesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CustomerLeadImagesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:12:44.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerLeadService.cs",
+              "DocumentMoniker": "D:\\Web APIs\\solution-root\\Application\\Services\\CustomerLeadService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CustomerLeadService.cs",
+              "ToolTip": "D:\\Web APIs\\solution-root\\Application\\Services\\CustomerLeadService.cs",
+              "RelativeToolTip": "Application\\Services\\CustomerLeadService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIA+wAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:11:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadFilesRequest.cs",
+              "DocumentMoniker": "D:\\Web APIs\\solution-root\\Application\\DTOs\\UploadFilesRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UploadFilesRequest.cs",
+              "ToolTip": "D:\\Web APIs\\solution-root\\Application\\DTOs\\UploadFilesRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\UploadFilesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:11:01.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "D:\\Web APIs\\solution-root\\Application\\DTOs\\ImageDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ImageDto.cs",
+              "ToolTip": "D:\\Web APIs\\solution-root\\Application\\DTOs\\ImageDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:10:03.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
